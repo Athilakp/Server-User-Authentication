@@ -1,0 +1,56 @@
+{
+    "users": [
+        {
+            "id": "7f55b48a-f0e6-4fa2-aa6a-d51d2e6ff9fc",
+            "username": "SuperAdmin",
+            "password": "superAdmin@123",
+            "role": "superadmin"
+        },
+        {
+            "id": "4a9da449-4c76-4eec-b725-03686a0ac374",
+            "username": "Admin",
+            "email": "admin@gmail.com",
+            "password": "admin@123",
+            "role": "admin"
+        },
+        {
+            "id": "da9733a4-4d09-4a6c-badb-f51314e557e7",
+            "username": "Admin2",
+            "email": "admin2@gmail.com",
+            "password": "admin2@123",
+            "role": "admin"
+        },
+        {
+            "id": "efd1f5d0-84dc-40f8-b72a-def6943f2849",
+            "username": "superUser",
+            "email": "superuser@gmail.com",
+            "password": "superUser@123",
+            "role": "superuser",
+            "createdBy": "4a9da449-4c76-4eec-b725-03686a0ac374"
+        },
+        {
+            "id": "fe89d103-7858-47bc-a344-ef4b22fb9d42",
+            "username": "user",
+            "email": "user@gmail.com",
+            "password": "user@123",
+            "role": "user",
+            "createdBy": "4a9da449-4c76-4eec-b725-03686a0ac374"
+        },
+        {
+            "id": "39ab66a9-dcf5-4f32-b924-fb8abeee8ddd",
+            "username": "shabeeer",
+            "email": "shab2gmail.com",
+            "password": "shab@123",
+            "role": "superuser",
+            "createdBy": "da9733a4-4d09-4a6c-badb-f51314e557e7"
+        },
+        {
+            "id": "d70f82d0-1a3e-4b98-ad54-619a25b79fb3",
+            "username": "athila",
+            "email": "athila@gmail.com",
+            "password": "athila@123",
+            "role": "user",
+            "createdBy": "da9733a4-4d09-4a6c-badb-f51314e557e7"
+        }
+    ]
+}
